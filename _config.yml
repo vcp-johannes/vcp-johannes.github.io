@@ -1,26 +1,26 @@
 # Site settings
 
 # Title of the Webpage (e.g. group name)
-title: "VCP Stamm Martin Luther"
+title: "VCP Stamm Johannes"
 # Short description of the group (single line)
-description: "Pfadfinden in Eisenach."
+description: "Pfadfinden in Mühldorf."
 # Name of the group
 group_name: VCP Stamm Martin Luther
 # Address of the group
 group_address: >
-  Am Kirchweg 3<br/>
-  12345 Eisenach
+  An der Kirche 5<br/>
+  54321 Mühldorf
 # Phone number of the group
 group_phone: 0123 / 456 78 90
 # Emailadress of the group
-group_email: kontakt@test-stamm.de
+group_email: johannes.engelke@vcp.de
 # Name of the Webmaster
-name: 'Walter Webmaster'
+name: 'Johannes Engelke'
 # Emailadress of the Webmaster
 email: info@johannes-engelke.de
 
 # URL of the webpage
-url: "http://vcp-de.github.io/" # the base hostname & protocol for your site
+url: "http://vcp-johannes.github.io/" # the base hostname & protocol for your site
 
 # Images
 
