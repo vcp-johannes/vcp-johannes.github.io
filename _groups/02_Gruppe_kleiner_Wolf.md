@@ -17,3 +17,5 @@ age: 7-10
 level: Kinderstufe
 ---
 Wir sind Gruppe kleiner Wolf. Wir treffen uns jeden Donnerstag um gemeinsam zu Spielen und Abenteuer zu erleben.
+
+Manchmal gehen wir auch schon auf Fahrt. Meisten fahren wir dann übers Wochenende in ein Gruppenhaus, wo wir spannende Dinge basteln und am Abend am Kamin gemeinsam Leider singen.
