@@ -13,7 +13,7 @@ meeting:
   Day: Donnerstags
   from: "15:00"
   to: "16:30"
-  age: 7-10
+age: 7-10
 level: Kinderstufe
 ---
 Wir sind Gruppe kleiner Wolf. Wir treffen uns jeden Donnerstag um gemeinsam zu Spielen und Abenteuer zu erleben.

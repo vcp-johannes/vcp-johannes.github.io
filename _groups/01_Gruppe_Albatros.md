@@ -21,7 +21,7 @@ meeting:
   Day: Mittwochs
   from: "17:00"
   to: "18:30"
-  age: 16-18
+age: 16-18
 level: Rover
 ---
 Wir sind die neue Rover Runde im Stamm. Wir sind viel draussen, bauen aber auch gerne an der Stammeshomepage.
