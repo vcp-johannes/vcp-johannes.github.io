@@ -25,3 +25,5 @@ age: 16-18
 level: Rover
 ---
 Wir sind die Albertrosse. Wir treffen uns regelmässig um auf Fahrt zu gehen oder zum Beispiel die Internetseite zu Pflegen. Ausserdem bereiten wir uns auf die Gruppenleiterschulung vor.
+
+Wir freuen uns über jeden neuen interessenten.
