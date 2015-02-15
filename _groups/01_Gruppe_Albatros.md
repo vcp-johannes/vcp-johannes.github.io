@@ -24,4 +24,4 @@ meeting:
   age: 16-18
 level: Rover
 ---
-Wir sind die neue Rover Runde im Stamm. Wir sind viel draussen, bauen aber auch gerne an der Stammeshomepage.
+Wir sind die neue Rover Runde im Stamm. Wir sind viel draussen, bauen aber auch gerne an der Stammeshomepage. 
