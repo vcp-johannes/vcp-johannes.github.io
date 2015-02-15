@@ -1,6 +1,6 @@
 ---
 layout: group
-title: "Gruppe Albatros
+title: "Gruppe Albatros"
 tags: group
 image: /assets/article_images/groups/ak_IMG_0826.jpg
 leaders:
